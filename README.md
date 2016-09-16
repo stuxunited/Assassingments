@@ -1,2 +1,2 @@
 # Assassingments
-These are just assassinment given by our Faculty 
+These are just programming assassinment given by our Faculty Teacher
