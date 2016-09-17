@@ -1,3 +1,7 @@
+//Given a String, Write function that print its permutations in which characters are replaced with digits as shown below:
+//If Input String is 'HAT'
+//Output should be :
+//HAT  1AT  H1T  HA1  11T  1A1  H11 111
 #include<stdio.h>
 #include<string.h>
 #include<math.h>
