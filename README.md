@@ -1,2 +1,2 @@
-# Assassingments
-These are just programming assassinment given by our Faculty Teacher
+# Assignments
+These are just programming assignments given by our faculty teacher
